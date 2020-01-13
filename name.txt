@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 delete all linessss
 s
+=======
+hey fadi here....
+>>>>>>> b28fe84076cf61e4e96726baf9f834cb55e922a5
